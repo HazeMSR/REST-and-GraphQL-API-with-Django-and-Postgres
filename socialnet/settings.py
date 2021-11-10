@@ -87,7 +87,7 @@ DATABASES = {
         'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'hazel',
         'USER': 'hazel2',
-        'PASSWORD': 'unodostres123',
+        'PASSWORD': 'pass',
         'HOST':'localhost', #'ALLOWED_HOSTS': ['104.237.129.63'], # 'HOST': '104.237.129.63' OR 'HOST':'localhost'
         'PORT': '5432', # 'PORT': 5432
     }
