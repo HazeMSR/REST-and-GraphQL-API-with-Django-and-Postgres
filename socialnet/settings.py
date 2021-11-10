@@ -41,10 +41,11 @@ INSTALLED_APPS = [
     'graphene_django',
     'posts',
     'ingredients',
+    'quizz',
 ]
 
 GRAPHENE = {
-    'SCHEMA': 'ingredients.schema.schema'
+    'SCHEMA': 'quizz.schema.schema'
 }
 
 MIDDLEWARE = [

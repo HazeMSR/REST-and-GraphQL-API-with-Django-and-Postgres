@@ -1,0 +1,27 @@
+[
+	{
+		"model": "quizz.question",
+		"pk": 1,
+		"text": "Who am I?"
+	},
+	{
+		"model": "quizz.question",
+		"pk": 2,
+		"text": "Where am I?"
+	},
+	{
+		"model": "quizz.question",
+		"pk": 3,
+		"text": "Who are U?"
+	},
+	{
+		"model": "quizz.question",
+		"pk": 4,
+		"text": "What do we do?"
+	},
+	{
+		"model": "quizz.question",
+		"pk": 5,
+		"text": "What's the purpose of life?"
+	}
+]
